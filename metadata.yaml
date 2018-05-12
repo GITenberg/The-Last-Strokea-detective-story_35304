@@ -1,0 +1,33 @@
+_repo: The-Last-Strokea-detective-story_35304
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35304-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lynch, Lawrence L.
+    aliases:
+    - Deventer, Emma Murdoch van
+    - Murdoch van Deventer, E. (Emma)
+    - Van Deventer, E. M. (Emma Murdoch)
+    - Van Deventer, Emma Murdoch
+    gutenberg_agent_id: '31516'
+    url: http://www.gutenberg.org/2009/agents/31516
+description: ''
+gutenberg_bookshelf:
+- Humor
+- Detective Fiction
+gutenberg_issued: '2011-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35304'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+- !lcsh 'Detective and mystery stories'
+title: 'The Last Stroke: A Detective Story'
+url: http://www.gutenberg.org/ebooks/35304
