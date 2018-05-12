@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '31516'
     url: http://www.gutenberg.org/2009/agents/31516
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35304#The-Last-Strokea-detective-story
 gutenberg_bookshelf:
 - Humor
 - Detective Fiction
